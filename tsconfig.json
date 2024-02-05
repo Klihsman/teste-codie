@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/index.style.js", "pages/components/CustomButton/custom-button.style.js", "pages/components/Header/Header.style.js", "pages/components/Footer/footer.style.js", "pages/components/PokeballButton/pokeball-button.style.js"],
   "exclude": ["node_modules"]
 }
